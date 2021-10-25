@@ -1,0 +1,17 @@
+package selfProgramming;
+
+class SELFTEST {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int X = 19;
+		String name = "Hanum";
+        System.out.println ("Aisyah " + name) ;
+		System.out.println ("My age is " + X);
+		name = "Hanim"; int x = 38;
+		System.out.println ( "Aisyah " + name);
+		System.out.println ("I have sister twice my age which is " + x);
+
+	}
+
+}
