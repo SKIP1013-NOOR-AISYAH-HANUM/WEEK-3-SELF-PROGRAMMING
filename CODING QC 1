@@ -1,0 +1,8 @@
+package selfProgramming;
+
+class quickcheck {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("\"Thank you all for " + "coming to my house\ntonight, \" he said " + "mysteriously." );
+		
